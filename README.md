@@ -33,11 +33,11 @@ Output :
 `sinatra123`
 
 ## Optional Questions :
-- [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
-- [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
-- [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)
-- [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)
-- [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem)
-- [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)
-- [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)
-- [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)
+1. [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
+2. [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
+3. [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)
+4. [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)
+5. [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem)
+6. [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)
+7. [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)
+8. [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)
