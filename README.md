@@ -28,16 +28,16 @@ The advencements in biomarine studies franky@google.com with the investments nec
 
 Output :
 
-franky
+`franky`
 
-sinatra123
+`sinatra123`
 
 ## Optional Questions :
-- Matching Anything But a Newline
-- Matching Specific String
-- Matching Digits & Non-Digit Characters
-- Matching Whitespace & Non-Whitespace Character
-- Matching Word & Non-Word Character
-- Matching Start & End
-- Matching Specific Characters
-- Excluding Specific Characters
+- [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
+- [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
+- [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)
+- [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)
+- [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem)
+- [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)
+- [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)
+- [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)
