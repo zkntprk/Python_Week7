@@ -2,7 +2,7 @@
 
 #Copyright (c) ${mailusername.2021} ${Ozkan TOPRAK}
 
-#Created by InfotecAcademy
+#Created by InfotechAcademy
 
 #THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 #IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -47,7 +47,7 @@ with open('mailtext.txt', 'r', encoding="utf-8") as file:
 
 #Copyright (c) ${mailusername.2021} ${Ozkan TOPRAK}
 
-#Created by InfotecAcademy
+#Created by InfotechAcademy
 
 #THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 #IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
