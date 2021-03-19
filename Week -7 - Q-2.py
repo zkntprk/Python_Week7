@@ -32,15 +32,14 @@
 
 import re
 
+with open('find8letterlong.txt', 'r', encoding="utf-8") as file:
+    text = file.read()
+    pattern = r"\s\w{8}\s"  
+    lst = re.findall(pattern, text)
+    for i in range(len(lst)):
+        lst[i] = (lst[i][1:-1]) #Deleting unnecessary spaces
 
-def find8letterword():
-    with open('find8letterlong.txt', 'r', encoding="utf-8") as file:
-        text = file.read()
-        pattern = r"\s\w{8}\s" # bitiste bosluk aramali!  #Bosluk sil
-    return print(re.findall(pattern, text))
-
-
-find8letterword()
+print(lst)
 
 ################
 ### All Rights Reserved ###
