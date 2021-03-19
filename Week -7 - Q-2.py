@@ -2,7 +2,7 @@
 
 #Copyright (c) ${eightletterFinder.2021} ${Ozkan TOPRAK}
 
-#Created by InfotecAcademy
+#Created by InfotechAcademy
 
 #THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 #IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -46,7 +46,7 @@ print(lst)
 
 #Copyright (c) ${eightletterFinder.2021} ${Ozkan TOPRAK}
 
-#Created by InfotecAcademy
+#Created by InfotechAcademy
 
 #THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 #IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
